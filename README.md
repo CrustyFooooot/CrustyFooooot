@@ -15,15 +15,15 @@ I am a
 - MOUSE RAZER Viper Mini
 
 ## Some of my games!
-Call of Duty: Black Ops
-Call of Duty: Black Ops II
-Call of Duty: Black Ops III
-BeamNG.drive
-Grand Theft Auto V
-PC Building Simulator
-Planet Coaster
-People Playground
-Roblox
+- Call of Duty: Black Ops
+- Call of Duty: Black Ops II
+- Call of Duty: Black Ops III
+- BeamNG.drive
+- Grand Theft Auto V
+- PC Building Simulator
+- Planet Coaster
+- People Playground
+- Roblox
 
 ## Browser
 I use Firefox :)
