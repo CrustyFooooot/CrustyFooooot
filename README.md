@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CrustyFooooot
+- 👀 I’m interested in scripting and developing on the ROBLOX platform
+- 🌱 I’m currently learning JavaScript
+- 📫 Reach me on email at ethan.demetersebastian@gmail.com
